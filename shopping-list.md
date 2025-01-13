@@ -23,3 +23,4 @@
 - Harry Potter
 - The 100
 - Pet Sematary
+- Merlin
